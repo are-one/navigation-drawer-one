@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/drawable/side_nav_bar.xml" value="0.1085" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/activity_hotel.xml" value="0.178125" />
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/activity_maps.xml" value="0.178125" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/activity_subway.xml" value="0.1921875" />
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/app_bar_main.xml" value="0.1921875" />
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/content_main.xml" value="0.1921875" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/fragment_cart.xml" value="0.1921875" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/fragment_gallery.xml" value="0.1921875" />
+        <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/layout/nav_header_main.xml" value="0.1921875" />
         <entry key="..\:/PROJECT/dicoding-proa/navigation-drawer-one/app/src/main/res/menu/activity_main_drawer.xml" value="0.1921875" />
       </map>
